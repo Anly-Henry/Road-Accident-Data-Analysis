@@ -6,6 +6,7 @@
 - [Project Dashboard](#project-dashboard)
 - [Tools and Skills Used](#tools-and-skills-used)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
+- [Project files](#project-files)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
   
@@ -61,6 +62,11 @@ The dashboard, created in Excel, serves as the focal point of the project. It al
    - Open the Excel file containing the dashboard.
    - Use filters to adjust the date range or location type (Urban/Rural).
    - Analyze the results in terms of casualties by severity, vehicle type, road type, and surface condition.
+     
+## Project files
+**Road Accident Data Analysis_dataset:** The main dataset used for analysis along with the dashboard. [Download Here](https://docs.google.com/spreadsheets/d/1Y0cISAEidiMClXxyLwlZPmalv1M8y4to/edit?usp=drive_link&ouid=107061954801668731092&rtpof=true&sd=true)
+
+**Road Accident Data Analysis_dashboard:** The dashboard created. [Download Here](https://drive.google.com/file/d/10wIJwA_EyG1HVBohKKOXxM5bUalSQkcs/view?usp=drive_link)
 
 ## Conclusion
 This project provided valuable insights into the factors contributing to road accidents. The dashboard highlights key metrics, making it easy to identify trends and areas that require attention for road safety 
